@@ -1,2 +1,4 @@
-# Jason's Personal Website
-This is a personal website built using the Hack4Impact Starter Pack!
+# Jason Michaeloff's Website
+This is a personal website built in Hack4Impact
+
+[Visit it Here!](https://<jason-michaeloff>.github.io)
